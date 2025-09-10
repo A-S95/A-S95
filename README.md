@@ -11,7 +11,7 @@
 
 - 👨🏽‍💻 I’m currently studying at IEFP - Lisbon.
 
-- 💻 I’m currently learning Python, C, MySQL/SQL and COBOL. 
+- 💻 I’m currently learning Python, C/C++, MySQL/SQL and COBOL. 
 
 - 🎲 Check some of my works!
     
