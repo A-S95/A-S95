@@ -3,7 +3,9 @@
 </div>  
   
 
-### <div align="center">Hi, I'm António, I am currently in the final year of my Software Development Course, with a strong interest in technology and problem-solving. Before moving into tech, I gained valuable experience in Interior Design, focusing on 3D planning and creative project development. This background gave me a sharp eye for detail and the ability to transform ideas into practical solutions. Today, I combine that creative mindset with my growing technical skills to build innovative digital solutions. 👨‍💻 </div>  
+### <div align="center">Hi, I'm António,
+Final-year Computer Programming student with a background in Interior Design and 3D planning.
+I combine creativity, problem-solving, and technical skills to develop practical and innovative digital solutions. 👨‍💻 </div>  
   
 
 ###### **Second Year at IEFP**  
