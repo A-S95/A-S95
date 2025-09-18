@@ -49,7 +49,7 @@ I combine creativity, problem-solving, and technical skills to develop practical
 
 
 
-### DevOps  
+### Others  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.microsoft.com/pt-pt/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303144/windows-10-logo.svg" alt="Windows" height="50" /></a>
