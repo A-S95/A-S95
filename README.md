@@ -1,4 +1,9 @@
-# Hi, I'm António Santos  
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh1c3ZwMjk5YTV0a3JhcWJlbnhpbTZ5c216a3Ywbm02Ym4xOTJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"  /><br>
+  <h3>Hi, I'm António Santos</h3>  
+</div>
+
+###
 
 I am a final-year Software Development student with a strong interest in technology and problem-solving.  
 Before moving into tech, I worked in Interior Design, specializing in 3D planning and creative project development. This experience gave me a sharp eye for detail and the ability to transform ideas into practical solutions.  
