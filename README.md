@@ -3,7 +3,7 @@
 I am a final-year Software Development student with a strong interest in technology and problem-solving.  
 Before moving into tech, I worked in Interior Design, specializing in 3D planning and creative project development. This experience gave me a sharp eye for detail and the ability to transform ideas into practical solutions.  
 
-Today, I combine creativity with technical skills to build innovative digital solutions, always striving to improve as a developer and deliver meaningful work.  
+- Today, I combine creativity with technical skills to build innovative digital solutions, always striving to improve as a developer and deliver meaningful work.  
 
 ---
 
