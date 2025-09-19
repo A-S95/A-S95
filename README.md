@@ -1,12 +1,12 @@
-<h1 align="left">My name is António Santos and I'm a  Junior Software Developer.</h1>
+<h1 align="left">Hi, I'm António Santos</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">I am a final-year Software Development student with a strong interest in technology and problem-solving.<br>Before moving into tech, I worked in Interior Design, specializing in 3D planning and creative project development. This experience gave me a sharp eye for detail and the ability to transform ideas into practical solutions.<br><br>Today, I combine creativity with technical skills to build innovative digital solutions, always striving to improve as a developer and deliver meaningful work.</p>
 
 ###
 
-<p align="left">📚 I’m a final-year Software Development student.<br>🎨 Before diving into tech, I worked in Interior Design, where I specialized in 3D planning and creative project development. That experience sharpened my eye for detail and taught me how to transform ideas into practical solutions.<br><br>🔧 Tech Interests<br>Software Development & Clean Code<br>Problem-Solving & Innovative Solutions<br>UI/UX & Design Thinking<br><br>🎯 Goals<br>Improve as a software developer<br>Build meaningful and impactful projects<br>Keep combining creativity with technology<br><br>🎲 Fun Facts<br>I love reading, designing, and dogs <br>Always curious and eager to learn new things</p>
+<p align="left"><b>Interests</b><br>Software Development<br>Problem-Solving<br>UI/UX and Design Thinking<br><br><b>Goals</b><br>Advance as a software developer<br>Build impactful projects<br>Keep learning and evolving</p>
 
 ###
 
