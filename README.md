@@ -81,7 +81,7 @@ Today, I combine creativity with technical skills to build innovative digital so
 
 ###
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=noyahpt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
