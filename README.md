@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh1c3ZwMjk5YTV0a3JhcWJlbnhpbTZ5c216a3Ywbm02Ym4xOTJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"  /><br>
+  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh1c3ZwMjk5YTV0a3JhcWJlbnhpbTZ5c216a3Ywbm02Ym4xOTJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"  /><br>
   <h3>Hi, I'm António Santos</h3>  
 </div>
 
