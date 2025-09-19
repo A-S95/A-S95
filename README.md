@@ -84,7 +84,26 @@ Today, I combine creativity with technical skills to build innovative digital so
 
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=noyahpt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=noyahpt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/user/noyahpt">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=noyahpt&count=7&unique=true" alt="Spotify Recently Played" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+###
+
 
 ---
 
