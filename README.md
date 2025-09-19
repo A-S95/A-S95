@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><b>Interests</b><br>Software Development<br>Problem-Solving<br>UI/UX and Design Thinking<br><br><b>Goals</b><br>Advance as a software developer<br>Build impactful projects<br>Keep learning and evolving</p>
+<p align="left"><b>Interests</b><br>- Software Development<br>- Problem-Solving<br>-UI/UX and Design Thinking<br><br><b>Goals</b><br>- Advance as a software developer<br>- Build impactful projects<br>- Keep learning and evolving</p>
 
 ###
 
