@@ -74,7 +74,7 @@ Before moving into tech, I worked in Interior Design, specializing in 3D plannin
 ---
 
 ## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](http://portfolio-as.myartsonline.com/) <span>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/as-software)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)]([http://portfolio-as.myartsonline.com/](https://portfolio-as-azure.vercel.app/)) <span>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/as-software)  
 
 ---
 
