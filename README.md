@@ -90,7 +90,6 @@ Before moving into tech, I worked in Interior Design, specializing in 3D plannin
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=noyahpt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
       </a>
     </td>
