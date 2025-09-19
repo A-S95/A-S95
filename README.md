@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h4 align="left">My name is António Santos and I'm a  Junior Software Developer.</h4>
+<h1 align="left">My name is António Santos and I'm a  Junior Software Developer.</h1>
 
 ###
 
