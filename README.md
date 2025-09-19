@@ -37,6 +37,7 @@ Today, I combine creativity with technical skills to build innovative digital so
 ###
 
 <div align="left">
+  <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2Fhome%3FnoSignUpCheck%3D1" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="C" height="50" /></a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
