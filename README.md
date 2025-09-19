@@ -1,74 +1,70 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<h4 align="left">My name is António Santos and I'm a  Junior Software Developer.</h4>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 I’m a final-year Software Development student.<br>🎨 Before diving into tech, I worked in Interior Design, where I specialized in 3D planning and creative project development. That experience sharpened my eye for detail and taught me how to transform ideas into practical solutions.<br><br>🔧 Tech Interests<br>Software Development & Clean Code<br>Problem-Solving & Innovative Solutions<br>UI/UX & Design Thinking<br><br>🎯 Goals<br>Improve as a software developer<br>Build meaningful and impactful projects<br>Keep combining creativity with technology<br><br>🎲 Fun Facts<br>I love reading, designing, and dogs <br>Always curious and eager to learn new things</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
+
+<h2 align="left">Others</h2>
+
+###
+
+<div align="left">
+  <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2Fhome%3FnoSignUpCheck%3D1" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="C" height="50" /></a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+</div>
+
+###
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi, I'm António,
-Final-year Computer Programming student with a background in Interior Design and 3D planning.
-I combine creativity, problem-solving, and technical skills to develop practical and innovative digital solutions. 👨‍💻 </div>  
-  
-
-###### **Second Year at IEFP**  
-  
-
-- 👨🏽‍💻 I’m currently studying at IEFP - Lisbon.
-
-- 💻 I’m currently learning Python, C/C++, MySQL/SQL and COBOL. 
-
-- 🎲 Check some of my works!
-    
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
+  <a href="https://open.spotify.com/user/noyahpt">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=noyahpt&count=7&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/376344/python.svg" alt="C" height="50" /></a>
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452088/php.svg" alt="C" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="C" height="50" /></a>           
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Others  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.microsoft.com/pt-pt/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303144/windows-10-logo.svg" alt="Windows" height="50" /></a>
-<a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2Fhome%3FnoSignUpCheck%3D1" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="C" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/A-S95" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/ant%C3%B3nio-santos-730744307/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
+###
