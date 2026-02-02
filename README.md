@@ -40,7 +40,7 @@ Before moving into tech, I worked in Interior Design, specializing in 3D plannin
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" height="40" alt="VB.NET logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1119px-Java_programming_language_logo.svg.png" height="40" alt="JAVA logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/022/100/214/original/java-logo-transparent-free-png.png" height="40" alt="JAVA logo"  />
   <img width="12" />
 </div> 
 
