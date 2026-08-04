@@ -101,11 +101,6 @@ Before moving into tech, I worked in Interior Design, specializing in 3D plannin
 </p>
 
 <table align="center">
-  <tr>
-    <td align="center">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=noyahpt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-      </a>
-    </td>
     <td align="center">
       <a href="https://open.spotify.com/user/noyahpt">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=noyahpt&count=7&unique=true" alt="Spotify Recently Played" />
