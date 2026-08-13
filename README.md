@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%3E+whoami;%3E+antonio_santos;%3E+cat+mission.txt;%3E+building+things+that+work+(mostly)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=170&lines=%24%20whoami;antonio_santos;%24%20cat%20mission.txt;%22just%20because%20it%20doesn%27t%20do%20what%20you%20planned%2C;doesn%27t%20mean%20it%27s%20useless.%22%20%E2%80%94%20Edison;%24%20echo%20%24mood;building%20things%20that%20work%20%28mostly%29" alt="Typing SVG" />
 
 <br/>
 
