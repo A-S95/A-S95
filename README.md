@@ -70,7 +70,7 @@
 
 ### `# tail -f contributions.log`
 
-<img src="https://raw.githubusercontent.com/A-S95/A-S95/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/A-S95/A-S95/output/github-contribution-grid-snake-dark.svg?v=2" width="90%"/>
 
 <sub>⚠️ requer a GitHub Action (ver instruções em baixo) — cor da cobra já ajustada para ciano</sub>
 
