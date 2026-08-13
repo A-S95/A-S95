@@ -14,9 +14,13 @@
 
 ### `# cat about.txt`
 
-**António Santos** · final-year software development student · Portugal
-<br/>ex-interior designer (3D planning) → agora a construir soluções digitais
-<br/>*"it's not a bug, it's a feature™"*
+**António Santos** · software developer · Portugal
+<br/>Spent years making sure furniture didn't collide in 3D — now I make sure code doesn't collide in production.
+<br/>Different bugs, same panic when something doesn't fit.
+
+<br/><br/>
+
+<img src="assets/bug-feature-badge.svg" width="320"/>
 
 <br/><br/>
 
