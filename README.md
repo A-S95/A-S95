@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1000&pause=6000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=180&lines=%3E%20Greetings.txt;%3E%20Name%3A%20Ant%C3%B3nio%20Santos;%3E%20Profession%3A%20Software%20Developer;%3E%20Country%3A%20Portugal;%3E%20History%3A%20Spent%20years%20making%20sure%20furniture%20didn%27t%20collide;%3E%20in%203D%20%E2%80%94%20now%20I%20make%20sure%20code%20doesn%27t%20collide%20in%20production.;%3E%20Different%20bugs%2C%20same%20panic%20when%20something%20doesn%27t%20fit." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=700&pause=5000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%3E%20Greetings.txt;%3E%20Name%3A%20Ant%C3%B3nio%20Santos;%3E%20Role%3A%20Software%20Developer;%3E%20Country%3A%20Portugal;%3E%20History%3A%20Traded%20floor%20plans%20for%20code.%20Still%20can%27t%20stand%20things%20out%20of%20place." alt="Typing SVG" />
 
 <br/>
 
