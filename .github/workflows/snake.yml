@@ -1,5 +1,5 @@
 name: Generate Snake Animation
-
+ 
 on:
   schedule:
     - cron: "0 0 * * *"   # corre todos os dias à meia-noite
@@ -7,7 +7,7 @@ on:
   push:
     branches:
       - main
-
+ 
 jobs:
   generate:
     permissions:
@@ -20,8 +20,8 @@ jobs:
           github_user_name: A-S95
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=00e5ff&color_dots=0a1128,003b46,0093a8,00c2d1,7dffea
-
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00E5FF&color_dots=#142c3f,#1c4f6e,#0e7ca8,#00b8d4,#7dffea
+ 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
