@@ -58,8 +58,6 @@
 <img src="https://github-readme-stats-chi-three-88.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true" width="49%"/>
 <img src="https://github-readme-stats-chi-three-88.vercel.app/api/top-langs/?username=A-S95&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=00E5FF" width="30%"/>
 
-<sub>⚠️ o serviço público de stats fica por vezes sobrecarregado (rate limit) — se as imagens não carregarem, tenta recarregar a página do GitHub; se continuar, é preciso fazer self-host (ver instruções em baixo)</sub>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
@@ -69,8 +67,6 @@
 ### `# tail -f contributions.log`
 
 <img src="https://raw.githubusercontent.com/A-S95/A-S95/output/github-contribution-grid-snake-dark.svg?v=2" width="90%"/>
-
-<sub>⚠️ requer a GitHub Action (ver instruções em baixo) — cor da cobra já ajustada para ciano</sub>
 
 </div>
 
