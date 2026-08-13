@@ -55,8 +55,8 @@
 
 ### `# ./run_stats.sh`
 
-<img src="https://github-readme-stats.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true&cache_seconds=86400" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-S95&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=00E5FF&cache_seconds=86400" width="30%"/>
+<img src="https://github-readme-stats-chi-three-88.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-chi-three-88.vercel.app/api/top-langs/?username=A-S95&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=00E5FF" width="30%"/>
 
 <img src="https://streak-stats.demolab.com/?user=A-S95&hide_border=true&background=000000&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&sideNums=ffffff&dates=6b7280" width="60%"/>
 
