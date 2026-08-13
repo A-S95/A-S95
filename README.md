@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=15&duration=1000&pause=700&color=F7F7F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=+%3E+Greetings.txt;%3E+Name%3A+Ant%C3%B3nio+Santos;%3E+Role%3A+Software+Developer;%3E+Country%3A+Portugal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=15&duration=1300&pause=700&color=F7F7F7&center=true&vCenter=true&multiline=true&width=900&height=130&lines=+%3E+cat+Greetings.txt;...+Fetching+Data+...;-----------------------;+Name%3A+Ant%C3%B3nio+Santos;+Role%3A+Software+Developer;+Country%3A+Portugal)](https://git.io/typing-svg)
 
 <br/>
 
@@ -61,7 +61,6 @@
 
 <img src="https://raw.githubusercontent.com/A-S95/A-S95/output/github-contribution-grid-snake-dark.svg?v=2" width="90%"/>
 
-<sub>⚠️ requer a GitHub Action (ver instruções em baixo) — cor da cobra já ajustada para ciano</sub>
 
 </div>
 
