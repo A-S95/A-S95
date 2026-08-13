@@ -30,7 +30,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4&animation=blink" width="100%"/>
+<img src="assets/divider-scan.svg" width="100%"/>
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4&animation=blink" width="100%"/>
+<img src="assets/divider-scan.svg" width="100%"/>
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4&animation=blink" width="100%"/>
+<img src="assets/divider-scan.svg" width="100%"/>
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4&animation=blink" width="100%"/>
+<img src="assets/divider-scan.svg" width="100%"/>
 
 <div align="center">
 
