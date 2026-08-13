@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="44" viewBox="0 0 360 44" role="img">
+  <title>Life motto: it's not a bug, it's a feature (broken neon sign)</title>
+
+  <defs>
+    <filter id="glow" x="-80%" y="-120%" width="260%" height="360%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="19" font-weight="bold" font-style="italic" filter="url(#glow)">
+    <text x="14" y="29" fill="#00E5FF">it's</text>
+
+    <text x="52" y="29" fill="#00E5FF">
+      not
+      <animate attributeName="opacity" values="1;1;0.15;1;1;0.3;1;1;0.1;1" keyTimes="0;0.06;0.09;0.12;0.4;0.44;0.47;0.75;0.79;1" dur="3.4s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="98" y="29" fill="#00E5FF">a</text>
+
+    <text x="113" y="29" fill="#264a52">
+      bug,
+      <animate attributeName="opacity" values="0.15;0.15;0.55;0.15;0.15;0.4;0.15;0.15" keyTimes="0;0.3;0.33;0.36;0.6;0.9;0.93;1" dur="4.2s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="163" y="29" fill="#00E5FF">
+      it's
+      <animate attributeName="opacity" values="1;0.2;1;1;0.1;1;1;0.35;1" keyTimes="0;0.15;0.18;0.5;0.53;0.56;0.8;0.84;1" dur="2.9s" begin="0.6s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="201" y="29" fill="#00E5FF">a</text>
+
+    <text x="216" y="29" fill="#7dffea">
+      feature™
+      <animate attributeName="fill" values="#7dffea;#00E5FF;#7dffea" dur="2.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
