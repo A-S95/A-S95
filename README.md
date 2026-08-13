@@ -12,15 +12,7 @@
 
 <br/><br/>
 
-[![Follow](https://img.shields.io/github/followers/A-S95?label=follow&style=flat-square&color=000000&labelColor=000000&logoColor=00E5FF)](https://github.com/A-S95)
-[![Profile views](https://komarev.com/ghpvc/?username=A-S95&style=flat-square&color=000000&labelColor=000000)](https://github.com/A-S95)
-[![Stars](https://img.shields.io/github/stars/A-S95?style=flat-square&color=000000&labelColor=000000)](https://github.com/A-S95)
-
-<br/><br/>
-
 ### `# cat about.txt`
-
-<img src="assets/its-not-a-bug-transparent.gif" width="260"/>
 
 **António Santos** · final-year software development student · Portugal
 <br/>ex-interior designer (3D planning) → agora a construir soluções digitais
@@ -38,7 +30,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4&animation=blink" width="100%"/>
 
 <div align="center">
 
@@ -63,7 +55,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4&animation=blink" width="100%"/>
 
 <div align="center">
 
@@ -75,7 +67,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4&animation=blink" width="100%"/>
 
 <div align="center">
 
@@ -86,7 +78,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4&animation=blink" width="100%"/>
 
 <div align="center">
 
@@ -97,16 +89,6 @@
 </a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
-
-<div align="center">
-
-### `# ls ./trophies`
-
-<img src="https://github-profile-trophy.vercel.app/?username=A-S95&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:003b46,100:000814&height=90&section=footer&text=process%20exited%20(code=0)&fontSize=14&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
