@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%3E+whoami;%3E+antonio_santos;%3E+cat+mission.txt;%3E+building+things+that+work+(mostly)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=1100&color=00E5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%3E%20greetings;%3E%20my%20name%20is%20antonio_santos;%3E%20currently%20based%20in%20portugal;%3E%20mission.txt%3A%20building%20things%20that%20work%20%28mostly%29" alt="Typing SVG" />
 
 <br/>
 
