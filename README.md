@@ -55,8 +55,8 @@
 
 ### `# ./run_stats.sh`
 
-<img src="https://github-readme-stats-chi-three-88.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true" width="49%"/>
-<img src="https://github-readme-stats-chi-three-88.vercel.app/api/top-langs/?username=A-S95&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=00E5FF" width="30%"/>
+<img src="https://github-readme-stats-chi-three-88.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true&v=2" width="49%"/>
+<img src="https://github-readme-stats-chi-three-88.vercel.app/api/top-langs/?username=A-S95&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=00E5FF&v=2" width="30%"/>
 
 </div>
 
