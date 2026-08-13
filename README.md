@@ -4,15 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%3E+whoami;%3E+antonio_santos;%3E+cat+mission.txt;%3E+building+things+that+work+(mostly)" alt="Typing SVG" />
 
+<img src="https://github.com/A-S95.png" width="120" alt="António Santos"/>
+
 [![Follow](https://img.shields.io/github/followers/A-S95?label=follow&style=flat-square&color=000000&labelColor=000000&logoColor=00E5FF)](https://github.com/A-S95)
 [![Profile views](https://komarev.com/ghpvc/?username=A-S95&style=flat-square&color=000000&labelColor=000000)](https://github.com/A-S95)
 [![Stars](https://img.shields.io/github/stars/A-S95?style=flat-square&color=000000&labelColor=000000)](https://github.com/A-S95)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
-
-<div align="center">
 
 ### `# cat about.txt`
 
@@ -21,6 +17,16 @@
 **António Santos** · final-year software development student · Portugal
 <br/>ex-interior designer (3D planning) → agora a construir soluções digitais
 <br/>*"it's not a bug, it's a feature™"*
+
+### `# cat contact.json`
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=00E5FF)](https://portfolio-as-azure.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/as-software)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=00E5FF)](mailto:antonio.j.santos.1995@gmail.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=flat-square&logo=x&logoColor=00E5FF)](https://x.com/teu-user)
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=00E5FF)](https://discord.com/users/teu-id)
+
+<sub>⚠️ os botões de Twitter/Discord têm links genéricos — troca pelos teus quando quiseres</sub>
 
 </div>
 
@@ -53,10 +59,11 @@
 
 <div align="center">
 
-### `# ./run_stats.sh`
+### `# tail -f contributions.log`
 
-<img src="https://github-readme-stats-chi-three-88.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true&v=2" width="49%"/>
-<img src="https://github-readme-stats-chi-three-88.vercel.app/api/top-langs/?username=A-S95&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=00E5FF&v=2" width="30%"/>
+<img src="https://raw.githubusercontent.com/A-S95/A-S95/output/github-contribution-grid-snake-dark.svg?v=2" width="90%"/>
+
+<sub>⚠️ requer a GitHub Action (ver instruções em baixo) — cor da cobra já ajustada para ciano</sub>
 
 </div>
 
@@ -64,11 +71,10 @@
 
 <div align="center">
 
-### `# tail -f contributions.log`
+### `# ./run_stats.sh`
 
-<img src="https://raw.githubusercontent.com/A-S95/A-S95/output/github-contribution-grid-snake-dark.svg?v=2" width="90%"/>
-
-<sub>⚠️ requer a GitHub Action (ver instruções em baixo) — cor da cobra já ajustada para ciano</sub>
+<img src="https://github-readme-stats-chi-three-88.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true&v=2" width="49%"/>
+<img src="https://github-readme-stats-chi-three-88.vercel.app/api/top-langs/?username=A-S95&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=00E5FF&v=2" width="30%"/>
 
 </div>
 
@@ -92,19 +98,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=A-S95&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
-
-<div align="center">
-
-### `# cat contact.json`
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=00E5FF)](https://portfolio-as-azure.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/as-software)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=00E5FF)](mailto:antonio.j.santos.1995@gmail.com)
-
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:003b46,100:000814&height=90&section=footer&text=process%20exited%20(code=0)&fontSize=14&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
