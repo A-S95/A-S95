@@ -58,8 +58,6 @@
 <img src="https://github-readme-stats-chi-three-88.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true" width="49%"/>
 <img src="https://github-readme-stats-chi-three-88.vercel.app/api/top-langs/?username=A-S95&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=00E5FF" width="30%"/>
 
-<img src="https://streak-stats.demolab.com/?user=A-S95&hide_border=true&background=000000&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&sideNums=ffffff&dates=6b7280" width="60%"/>
-
 <sub>⚠️ o serviço público de stats fica por vezes sobrecarregado (rate limit) — se as imagens não carregarem, tenta recarregar a página do GitHub; se continuar, é preciso fazer self-host (ver instruções em baixo)</sub>
 
 </div>
