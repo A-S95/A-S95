@@ -2,9 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:003b46,100:00e5ff&height=180&section=header&text=root@a-s95:~$%20whoami&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ant%C3%B3nio%20Santos%20%7C%20software%20developer&descAlignY=62&descSize=16" width="100%"/>
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%3E+whoami;%3E+antonio_santos;%3E+cat+mission.txt;%3E+building+things+that+work+(mostly)" alt="Typing SVG" />
 
+<br/>
+
 <img src="https://github.com/A-S95.png" width="120" alt="António Santos"/>
+
+<br/><br/>
+
+[![Follow](https://img.shields.io/github/followers/A-S95?label=follow&style=flat-square&color=000000&labelColor=000000&logoColor=00E5FF)](https://github.com/A-S95)
+[![Profile views](https://komarev.com/ghpvc/?username=A-S95&style=flat-square&color=000000&labelColor=000000)](https://github.com/A-S95)
+[![Stars](https://img.shields.io/github/stars/A-S95?style=flat-square&color=000000&labelColor=000000)](https://github.com/A-S95)
+
+<br/><br/>
 
 ### `# cat about.txt`
 
@@ -14,10 +26,15 @@
 <br/>ex-interior designer (3D planning) → agora a construir soluções digitais
 <br/>*"it's not a bug, it's a feature™"*
 
+### `# cat contact.json`
+
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=00E5FF)](https://portfolio-as-azure.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/as-software)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=00E5FF)](mailto:antonio.j.santos.1995@gmail.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=flat-square&logo=x&logoColor=00E5FF)](https://x.com/teu-user)
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=00E5FF)](https://discord.com/users/teu-id)
 
+<sub>⚠️ os botões de Twitter/Discord têm links genéricos — troca pelos teus quando quiseres</sub>
 
 </div>
 
@@ -84,6 +101,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
 
 <div align="center">
+
+### `# ls ./trophies`
+
+<img src="https://github-profile-trophy.vercel.app/?username=A-S95&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
 
 <br/><br/>
 
