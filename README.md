@@ -34,22 +34,57 @@
 
 ### `# ls ./stack`
 
+<sub>languages & frameworks</sub>
+<br/>
+
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00E5FF)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00E5FF)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css&logoColor=00E5FF)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=00E5FF)
+![jQuery](https://img.shields.io/badge/JQUERY-000000?style=flat-square&logo=jquery&logoColor=00E5FF)
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=00E5FF)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=00E5FF)
+![Java](https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=00E5FF)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00E5FF)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00E5FF)
-![Java](https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=00E5FF)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square)
+![VB.NET](https://img.shields.io/badge/VB.NET-000000?style=flat-square&logo=dotnet&logoColor=00E5FF)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=flat-square&logo=dotnet&logoColor=00E5FF)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00E5FF)
-![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql&logoColor=00E5FF)
+![COBOL](https://img.shields.io/badge/COBOL-000000?style=flat-square)
 
+<br/><br/>
+<sub>databases</sub>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=flat-square&logo=postgresql&logoColor=00E5FF)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-000000?style=flat-square&logo=sqlalchemy&logoColor=00E5FF)
+![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql&logoColor=00E5FF)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square)
+
+<br/><br/>
+<sub>tools & other</sub>
 <br/>
 
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=00E5FF)
+![RESTful APIs](https://img.shields.io/badge/RESTFUL%20APIS-000000?style=flat-square)
+![Celery](https://img.shields.io/badge/CELERY-000000?style=flat-square&logo=celery&logoColor=00E5FF)
+![RabbitMQ](https://img.shields.io/badge/RABBITMQ-000000?style=flat-square&logo=rabbitmq&logoColor=00E5FF)
+![Power BI](https://img.shields.io/badge/POWER%20BI-000000?style=flat-square)
+![Windows](https://img.shields.io/badge/WINDOWS-000000?style=flat-square)
 ![Linux](https://img.shields.io/badge/LINUX-000000?style=flat-square&logo=linux&logoColor=00E5FF)
-![VSCode](https://img.shields.io/badge/VSCODE-000000?style=flat-square&logo=visualstudiocode&logoColor=00E5FF)
+![Network Management](https://img.shields.io/badge/NETWORK%20MANAGEMENT-000000?style=flat-square)
+![3D Modeling](https://img.shields.io/badge/3D%20MODELING-000000?style=flat-square)
+![VSCode](https://img.shields.io/badge/VSCODE-000000?style=flat-square)
 ![Arduino](https://img.shields.io/badge/ARDUINO-000000?style=flat-square&logo=arduino&logoColor=00E5FF)
+
+<br/><br/>
+<sub>ai & automation</sub>
+<br/>
+
+![Claude Code](https://img.shields.io/badge/CLAUDE%20CODE-000000?style=flat-square&logo=claudecode&logoColor=00E5FF)
+![OpenRouter](https://img.shields.io/badge/OPENROUTER-000000?style=flat-square&logo=openrouter&logoColor=00E5FF)
+![AI Pair Programming](https://img.shields.io/badge/AI%20PAIR%20PROGRAMMING-000000?style=flat-square)
+
 
 </div>
 
@@ -70,8 +105,7 @@
 
 ### `# ./run_stats.sh`
 
-<img src="https://github-readme-stats-chi-three-88.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true&v=2" width="49%"/>
-<img src="https://github-readme-stats-chi-three-88.vercel.app/api/top-langs/?username=A-S95&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=00E5FF&v=2" width="30%"/>
+<img src="https://github-readme-stats-chi-three-88.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true&v=2" width="90%"/>
 
 </div>
 
