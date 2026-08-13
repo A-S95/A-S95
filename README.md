@@ -83,7 +83,7 @@
 ### `# spotify --recently-played`
 
 <a href="https://open.spotify.com/user/noyahpt">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=noyahpt&count=10&unique=true" width="80%"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=noyahpt&count=10&unique=true&width=550" width="70%"/>
 </a>
 
 </div>
