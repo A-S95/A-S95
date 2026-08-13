@@ -4,17 +4,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=700&pause=5000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%3E%20Greetings.txt;%3E%20Name%3A%20Ant%C3%B3nio%20Santos;%3E%20Role%3A%20Software%20Developer;%3E%20Country%3A%20Portugal;%3E%20History%3A%20Traded%20floor%20plans%20for%20code.%20Still%20can%27t%20stand%20things%20out%20of%20place." alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=15&duration=1000&pause=700&color=F7F7F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=+%3E+Greetings.txt;%3E+Name%3A+Ant%C3%B3nio+Santos;%3E+Role%3A+Software+Developer;%3E+Country%3A+Portugal)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://github.com/A-S95.png" width="120" alt="António Santos"/>
-
 <br/>
 
-<img src="assets/bug-feature-badge.svg" width="230"/>
 
-<br/><br/>
+<br/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=15&duration=4500&pause=5000&color=53E0F7&center=true&vCenter=true&width=900&height=15&lines=Spent+years+making+sure+furniture+didn't+collide+in+3D%2C+now+I+make+sure+code+doesn't+collide+in+production.)](https://git.io/typing-svg)
+
+<br/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=15&pause=5000&color=F7F7F7&center=true&vCenter=true&width=900&height=15&lines=Different+bugs%2C+same+panic+when+something+doesn't+fit.)](https://git.io/typing-svg)
+
 
 <img src="assets/quote-card.svg" width="500"/>
 
@@ -23,10 +23,8 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=00E5FF)](https://portfolio-as-azure.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/as-software)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=00E5FF)](mailto:antonio.j.santos.1995@gmail.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=flat-square&logo=x&logoColor=00E5FF)](https://x.com/teu-user)
-[![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=00E5FF)](https://discord.com/users/teu-id)
 
-<sub>⚠️ os botões de Twitter/Discord têm links genéricos — troca pelos teus quando quiseres</sub>
+<img src="assets/bug-feature-badge.svg" width="230"/>
 
 </div>
 
