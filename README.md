@@ -1,118 +1,125 @@
 <div align="center">
-  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh1c3ZwMjk5YTV0a3JhcWJlbnhpbTZ5c216a3Ywbm02Ym4xOTJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"  /><br>
-  <h3>Hi, I'm António Santos</h3>  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:003b46,100:00e5ff&height=180&section=header&text=root@a-s95:~$%20whoami&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ant%C3%B3nio%20Santos%20%7C%20software%20developer&descAlignY=62&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%3E+whoami;%3E+antonio_santos;%3E+cat+mission.txt;%3E+building+things+that+work+(mostly)" alt="Typing SVG" />
+
+[![Follow](https://img.shields.io/github/followers/A-S95?label=follow&style=flat-square&color=000000&labelColor=000000&logoColor=00E5FF)](https://github.com/A-S95)
+[![Profile views](https://komarev.com/ghpvc/?username=A-S95&style=flat-square&color=000000&labelColor=000000)](https://github.com/A-S95)
+[![Stars](https://img.shields.io/github/stars/A-S95?style=flat-square&color=000000&labelColor=000000)](https://github.com/A-S95)
+
 </div>
 
-###
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
 
-I am a final-year Software Development student with a strong interest in technology and problem-solving.  
-Before moving into tech, I worked in Interior Design, specializing in 3D planning and creative project development. This experience gave me a sharp eye for detail and the ability to transform ideas into practical solutions.  
+<div align="center">
 
-- Today, I combine creativity with technical skills to build innovative digital solutions, always striving to improve as a developer and deliver meaningful work.  
+### `# cat about.txt`
 
----
+<img src="assets/its-not-a-bug-transparent.gif" width="260"/>
 
-## 🛠️ Core Skills
-- **Languages & Frameworks:**
+**António Santos** · final-year software development student · Portugal
+<br/>ex-interior designer (3D planning) → agora a construir soluções digitais
+<br/>*"it's not a bug, it's a feature™"*
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo" />
-  <img width="12" />       
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/022/100/214/original/java-logo-transparent-free-png.png" height="40" alt="JAVA logo"  />
-  <img width="12" />
-</div> 
-
-###
-
-- **Tools & Platforms:**
-
-###
-
-<div align="left">
-  <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2Fhome%3FnoSignUpCheck%3D1" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="C" height="50" /></a> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://www.inmotionhosting.com/support/wp-content/uploads/2021/06/PhpMyAdmin_logo.svg_.png" height="40" alt="phpadmin logo"  />
-  <img width="12" />
-  <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" height="40" alt="XAMP logo"  />
-  <img width="12" />
 </div>
 
-###
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
 
----
+<div align="center">
 
-## 📌 Interests
-- Software Development  
-- Problem-Solving  
-- UI/UX and Design Thinking  
+### `# ls ./stack`
 
----
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00E5FF)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=00E5FF)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=00E5FF)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00E5FF)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00E5FF)
+![Java](https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=00E5FF)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00E5FF)
+![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql&logoColor=00E5FF)
 
-## 🎯 Goals
-- Advance as a software developer  
-- Build impactful projects  
-- Keep learning and evolving  
+<br/>
 
----
+![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=00E5FF)
+![Linux](https://img.shields.io/badge/LINUX-000000?style=flat-square&logo=linux&logoColor=00E5FF)
+![VSCode](https://img.shields.io/badge/VSCODE-000000?style=flat-square&logo=visualstudiocode&logoColor=00E5FF)
+![Arduino](https://img.shields.io/badge/ARDUINO-000000?style=flat-square&logo=arduino&logoColor=00E5FF)
 
-## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-as-azure.vercel.app/) <span>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/as-software)  
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
 
-###
+<div align="center">
 
-<h2 align="left">🎶 Music</h2>
+### `# ./run_stats.sh`
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=A-S95&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=00E5FF&text_color=00E5FF&count_private=true&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-S95&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=00E5FF&cache_seconds=86400" width="30%"/>
 
-<p align="center">
-</p>
+<img src="https://streak-stats.demolab.com/?user=A-S95&hide_border=true&background=000000&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&sideNums=ffffff&dates=6b7280" width="60%"/>
 
-<table align="center">
-    <td align="center">
-      <a href="https://open.spotify.com/user/noyahpt">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=noyahpt&count=7&unique=true" alt="Spotify Recently Played" />
-      </a>
-    </td>
-  </tr>
-</table>
+<sub>⚠️ o serviço público de stats fica por vezes sobrecarregado (rate limit) — se as imagens não carregarem, tenta recarregar a página do GitHub; se continuar, é preciso fazer self-host (ver instruções em baixo)</sub>
 
-###
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
 
----
+<div align="center">
 
-*"Just because something doesn’t do what you planned it to do, doesn’t mean it’s useless."*  
-— Thomas Edison  
+### `# tail -f contributions.log`
+
+<img src="https://raw.githubusercontent.com/A-S95/A-S95/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+<sub>⚠️ requer a GitHub Action (ver instruções em baixo) — cor da cobra já ajustada para ciano</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
+
+<div align="center">
+
+### `# spotify --now-playing`
+
+<a href="https://open.spotify.com/user/noyahpt">
+  <img src="assets/spotify-now-playing.svg" width="70%"/>
+</a>
+
+<br/><br/>
+
+### `# spotify --recently-played`
+
+<a href="https://open.spotify.com/user/noyahpt">
+  <img src="assets/spotify-recently-played.svg" width="70%"/>
+</a>
+
+<sub>⚠️ ambos requerem configurar a GitHub Action do Spotify (ver instruções em baixo)</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
+
+<div align="center">
+
+### `# ls ./trophies`
+
+<img src="https://github-profile-trophy.vercel.app/?username=A-S95&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
+
+<div align="center">
+
+### `# cat contact.json`
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=00E5FF)](https://portfolio-as-azure.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/as-software)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=00E5FF)](mailto:antonio.j.santos.1995@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:003b46,100:000814&height=90&section=footer&text=process%20exited%20(code=0)&fontSize=14&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+</div>
