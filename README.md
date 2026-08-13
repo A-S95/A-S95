@@ -68,6 +68,8 @@
 
 <img src="https://raw.githubusercontent.com/A-S95/A-S95/output/github-contribution-grid-snake-dark.svg?v=2" width="90%"/>
 
+<sub>⚠️ requer a GitHub Action (ver instruções em baixo) — cor da cobra já ajustada para ciano</sub>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=4" width="100%"/>
