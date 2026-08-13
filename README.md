@@ -80,21 +80,11 @@
 
 <div align="center">
 
-### `# spotify --now-playing`
-
-<a href="https://open.spotify.com/user/noyahpt">
-  <img src="assets/spotify-now-playing.svg" width="70%"/>
-</a>
-
-<br/><br/>
-
 ### `# spotify --recently-played`
 
 <a href="https://open.spotify.com/user/noyahpt">
-  <img src="assets/spotify-recently-played.svg" width="70%"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=noyahpt&count=10&unique=true" width="80%"/>
 </a>
-
-<sub>⚠️ ambos requerem configurar a GitHub Action do Spotify (ver instruções em baixo)</sub>
 
 </div>
 
