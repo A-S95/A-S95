@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180" role="img">
+  <title>Just because something doesn't do what you planned it to do, doesn't mean it's useless. — Thomas Edison</title>
+  <rect x="0.5" y="0.5" width="639" height="179" rx="12" fill="#000000" stroke="#00E5FF" stroke-width="1"/>
+
+  <text x="26" y="86" font-family="Georgia, serif" font-size="90" fill="#00E5FF" opacity="0.22">&#8220;</text>
+
+  <text x="70" y="66" font-family="JetBrains Mono, monospace" font-size="19" font-style="italic" fill="#e6edf3">Just because something doesn't do what you</text>
+  <text x="70" y="94" font-family="JetBrains Mono, monospace" font-size="19" font-style="italic" fill="#e6edf3">planned it to do, doesn't mean it's useless.</text>
+
+  <line x1="70" y1="118" x2="150" y2="118" stroke="#00E5FF" stroke-width="1"/>
+  <text x="70" y="142" font-family="JetBrains Mono, monospace" font-size="15" fill="#7dffea">— Thomas Edison</text>
+
+  <text x="580" y="86" font-family="Georgia, serif" font-size="90" fill="#00E5FF" opacity="0.22">&#8221;</text>
+</svg>
